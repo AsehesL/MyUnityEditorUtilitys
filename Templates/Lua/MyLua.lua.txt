@@ -1,0 +1,22 @@
+﻿local transform;
+local gameObject;
+
+#NAME# = {}
+local this = #NAME#
+
+function #NAME#.Awake(obj)
+	
+end
+
+function #NAME#.Start()
+		
+end
+
+function #NAME#.InitPanel()
+		
+end
+
+function #NAME#.OnDestroy()
+	
+end
+
