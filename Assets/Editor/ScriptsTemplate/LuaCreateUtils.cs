@@ -6,7 +6,7 @@ public static class LuaCreateUtils
 {
 
     [MenuItem("Assets/Create/Lua/MyLua.lua")]
-    static void CreateShader0000()
+    static void CreateMyLua()
     {
         ProjectWindowUtilEx.CreateScriptUtil(@"Templates\Lua\MyLua.lua.txt", "New MyLua.lua");
     }
